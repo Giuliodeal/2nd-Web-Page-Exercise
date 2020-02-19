@@ -17,3 +17,7 @@ p {
   font-family: Helvetica, Verdana, Arial, sans-serif;
   font-size: 6em;
 }
+
+button {
+  width: 160px;
+}
