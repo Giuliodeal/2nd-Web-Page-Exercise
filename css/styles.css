@@ -21,8 +21,10 @@ p {
 #canDo {
   font-family: 'Roboto', sans-serif;
   font-size: 6em;
-  border-bottom: 3px red dashed;
-  margin-bottom: 1em;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: red;
+  margin-bottom: 3px 1em;
 }
 
 button {
