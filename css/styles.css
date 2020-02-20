@@ -22,7 +22,6 @@ p {
   font-family: 'Roboto', sans-serif;
   font-size: 6em;
   border-bottom: 3px red dashed;
-  border-width: auto;
   margin-bottom: 1em;
 }
 
