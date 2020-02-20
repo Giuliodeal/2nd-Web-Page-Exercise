@@ -21,7 +21,7 @@ p {
   font-family: 'Roboto', sans-serif;
   font-size: 6em;
   text-decoration: underline;
-  text-decoration-style: dotted;
+  text-decoration-style: dashed;
 }
 
 #bsbtn {
