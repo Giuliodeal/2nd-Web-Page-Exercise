@@ -24,7 +24,8 @@ p {
   text-decoration: underline;
   text-decoration-style: dashed;
   text-decoration-color: red;
-  margin-bottom: 3px 1em;
+  text-decoration-style: 3px;
+  margin-bottom: 1em;
 }
 
 button {
