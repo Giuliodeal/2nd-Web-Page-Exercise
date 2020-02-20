@@ -2,7 +2,6 @@ body {
   background-color: #DABFFF;
   margin: 0;
   padding: 0;
-  font-family: Georgia, serif;
 }
 
 nav {
@@ -15,7 +14,7 @@ h1 {
 }
 
 p {
-  font-family: serif;
+  font-family: 'Roboto Slab', serif;;
 }
 
 #canDo {
