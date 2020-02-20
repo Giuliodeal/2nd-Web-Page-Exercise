@@ -22,6 +22,7 @@ p {
   font-family: 'Roboto', sans-serif;
   font-size: 6em;
   border-bottom: 3px red dashed;
+  margin-bottom: 1em;
 }
 
 button {
