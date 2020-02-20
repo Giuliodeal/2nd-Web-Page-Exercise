@@ -23,6 +23,7 @@ p {
   text-decoration: underline;
   text-decoration-style: dashed;
   text-decoration-color: red;
+  margin-bottom: 1em;
 }
 
 button {
